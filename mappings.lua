@@ -1,10 +1,9 @@
 -------------------------------------------------------------------------------
---                  Copyright (C) 2023 wystan
 --
 --       filename: mapping.lua
 --    description: key mappings for nvchad
 --        created: 2023/06/24
---         author: wystan
+--         author: tichtechman
 --
 -------------------------------------------------------------------------------
 

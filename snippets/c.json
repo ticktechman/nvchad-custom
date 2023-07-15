@@ -8,7 +8,7 @@
         " *        filename: ${TM_FILENAME}",
         " *     description: $1",
         " *         created: $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE",
-        " *          author: wystan",
+        " *          author: ticktechman",
         " *",
         " *******************************************************************************",
         " */",

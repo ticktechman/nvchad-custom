@@ -1,10 +1,9 @@
 -------------------------------------------------------------------------------
---                  Copyright (C) 2023 wystan
 --
 --       filename: plugins.lua
 --    description: personal plugins
 --        created: 2023/06/24
---         author: wystan
+--         author: ticktechman
 --
 -------------------------------------------------------------------------------
 
